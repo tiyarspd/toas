@@ -1,2 +1,2 @@
-include ':app'
-include ':coba'
+include 'app'
+include 'coba'
